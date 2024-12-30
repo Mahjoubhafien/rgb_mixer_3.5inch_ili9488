@@ -1,0 +1,7 @@
+C:/Users/KURAPIKA/Documents/MCU3/my_work/rgb_mixer_3.5inch/lvgl/src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+C:/Users/KURAPIKA/Documents/MCU3/my_work/rgb_mixer_3.5inch/lvgl/src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+C:/Users/KURAPIKA/Documents/MCU3/my_work/rgb_mixer_3.5inch/lvgl/src/core/lv_disp.h:184:26:lv_scr_act	8	static
+C:/Users/KURAPIKA/Documents/MCU3/my_work/rgb_mixer_3.5inch/lvgl/src/widgets/slider/lv_slider.h:104:20:lv_slider_set_range	24	static
+C:/Users/KURAPIKA/Documents/MCU3/my_work/rgb_mixer_3.5inch/lvgl/src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	16	static
+../Core/Src/rgb_mixer.c:15:6:slider_callback	40	static
+../Core/Src/rgb_mixer.c:41:6:rgb_mixer_create_ui	48	static
